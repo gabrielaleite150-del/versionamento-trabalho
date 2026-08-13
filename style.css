@@ -1,39 +1,14 @@
 
-p {
-  font-size: 1.5rem;
-  line-height: 1.6;
-  color: #333333;
-  margin-bottom: 1rem;
-}
-
-
 h1 {
-  font-size: 2.85rem;
+  font-size: 3.25rem;
   line-height: 1.2;
   font-weight: 700;
   color: #1a1a1a;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
-  width: 300px; /* largura fixa */
-  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-align: center;
 }
 
-h2 {
-  font-size: 1.9rem;
-  line-height: 1.3;
-  font-weight: 600;
-  color: #2c2c2c;
-  margin-top: 1.5rem;
-  margin-bottom: 0.75rem;
-}
-
-
-h3 {
-  font-size: 1.7rem;
-  line-height: 1.4;
-  font-weight: 600;
-  color: #383838;
-  margin-top: 1.25rem;
-  margin-bottom: 0.5rem;
-}
